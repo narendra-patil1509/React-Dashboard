@@ -1,3 +1,8 @@
-.nav-pills li a:hover{
-    background-color: rgb(61,61,243);
+.sidebar{
+    width: 220px;
+}
+.list-group a:hover {
+    background-color: blue;
+    color: white;
+    cursor: pointer;
 }
